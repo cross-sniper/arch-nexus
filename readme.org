@@ -1,0 +1,10 @@
+#+title: "arch-nexus"
+#+author: "cross-sniper"
+arch-nexus is a set of post-install scripts for Arch Linux
+
+made to be a easier way to get a base Arch installation going,
+
+recomended to use after installing with
+#+BEGIN_SRC sh
+archinstall
+#+END_SRC

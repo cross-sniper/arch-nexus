@@ -1,0 +1,10 @@
+#!/usr/bin/env python
+import os
+
+print("arch-nexus v1")
+def help():
+    print("this is the setup script for arch-nexus")
+    print("it will ask you some questions about what you want to install, if at any point you decide to not go foward with the idea")
+    print("you can press <CTRL+c> to cancel it")
+    print("altho that will not undo any changes, sadly")
+
