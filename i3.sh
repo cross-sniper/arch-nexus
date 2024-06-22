@@ -1,5 +1,7 @@
 #!/usr/bin/env sh
 set -e
+sh pre-install.sh
+
 echo "please read every message this gives you, before pressing enter"
 sleep 1
 sudo pacman -Syyu paru
